@@ -1,0 +1,38 @@
+C:\Users\K-P-M\source\repos\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\Zadatak 11 - Režije.exe.config
+C:\Users\K-P-M\source\repos\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\Zadatak 11 - Režije.exe
+C:\Users\K-P-M\source\repos\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\Zadatak 11 - Režije.pdb
+C:\Users\K-P-M\source\repos\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.csprojAssemblyReference.cache
+C:\Users\K-P-M\source\repos\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak_11___Režije.Form1.resources
+C:\Users\K-P-M\source\repos\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak_11___Režije.Form2.resources
+C:\Users\K-P-M\source\repos\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak_11___Režije.Properties.Resources.resources
+C:\Users\K-P-M\source\repos\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.csproj.GenerateResource.cache
+C:\Users\K-P-M\source\repos\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.csproj.CoreCompileInputs.cache
+C:\Users\K-P-M\source\repos\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.exe
+C:\Users\K-P-M\source\repos\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.pdb
+D:\Karlo C# - 3.raz\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\Zadatak 11 - Režije.exe.config
+D:\Karlo C# - 3.raz\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\Zadatak 11 - Režije.exe
+D:\Karlo C# - 3.raz\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\Zadatak 11 - Režije.pdb
+D:\Karlo C# - 3.raz\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.csprojAssemblyReference.cache
+D:\Karlo C# - 3.raz\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak_11___Režije.Form1.resources
+D:\Karlo C# - 3.raz\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak_11___Režije.Form2.resources
+D:\Karlo C# - 3.raz\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak_11___Režije.Properties.Resources.resources
+D:\Karlo C# - 3.raz\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.csproj.GenerateResource.cache
+D:\Karlo C# - 3.raz\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.csproj.CoreCompileInputs.cache
+D:\Karlo C# - 3.raz\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.exe
+D:\Karlo C# - 3.raz\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.pdb
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\Zadatak 11 - Režije.exe.config
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.exe
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.pdb
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\Zadatak 11 - Režije.exe
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\Zadatak 11 - Režije.pdb
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\mscorlib.dll
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\normidna.nlp
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\normnfc.nlp
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\normnfd.nlp
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\normnfkc.nlp
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\bin\Debug\normnfkd.nlp
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.csprojResolveAssemblyReference.cache
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak_11___Režije.Form1.resources
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak_11___Režije.Form2.resources
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak_11___Režije.Properties.Resources.resources
+C:\Users\HAL\Desktop\Zadatak_11 IS\Zadatak 11 - Režije\Zadatak 11 - Režije\obj\Debug\Zadatak 11 - Režije.csproj.GenerateResource.Cache

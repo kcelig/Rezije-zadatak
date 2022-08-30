@@ -1,0 +1,8 @@
+Struja
+400
+aaa
+1000
+ddd
+2000
+Voda
+5000
